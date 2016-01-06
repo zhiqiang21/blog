@@ -2,7 +2,7 @@
 
 就使用js动态计算给文档的`fopnt-size`  动态赋值解决问题。
 
-```
+```javascript
 /**
  * [以iPhone6的设计稿为例js动态设置文档 rem 值]
  * @param  {[type]} doc [文档元素]

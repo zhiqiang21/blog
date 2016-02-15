@@ -7,6 +7,9 @@ my personal blog
 - [移动端 h5 开发相关内容总结——JavaScript 篇20160104](https://github.com/zhiqiang21/blog/blob/master/technology/%E7%A7%BB%E5%8A%A8%E7%AB%AF%20h5%20%E5%BC%80%E5%8F%91%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9%E6%80%BB%E7%BB%93%E2%80%94%E2%80%94JavaScript%20%E7%AF%8720160104.md)
 - [h5端呼起摄像头扫描二维码并解析_20160120](https://github.com/zhiqiang21/blog/blob/master/technology/h5%E7%AB%AF%E5%91%BC%E8%B5%B7%E6%91%84%E5%83%8F%E5%A4%B4%E6%89%AB%E6%8F%8F%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%B9%B6%E8%A7%A3%E6%9E%90_20160120.md)
 - [移动端 h5开发相关内容总结(三)_20160131](https://github.com/zhiqiang21/blog/blob/master/technology/%E7%A7%BB%E5%8A%A8%E7%AB%AF%20h5%E5%BC%80%E5%8F%91%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9%E6%80%BB%E7%BB%93(%E4%B8%89)_20160131.md)
+- [JavaScript “跑马灯”抽奖活动代码解析与优化（一）20160215](https://github.com/zhiqiang21/blog/blob/master/technology/JavaScript%20%E2%80%9C%E8%B7%91%E9%A9%AC%E7%81%AF%E2%80%9D%E6%8A%BD%E5%A5%96%E6%B4%BB%E5%8A%A8%E4%BB%A3%E7%A0%81%E8%A7%A3%E6%9E%90%E4%B8%8E%E4%BC%98%E5%8C%96%EF%BC%88%E4%B8%80%EF%BC%8920160215.md)
+- [JavaScript “跑马灯”抽奖活动代码解析与优化（二）20160215](https://github.com/zhiqiang21/blog/blob/master/technology/JavaScript%20%E2%80%9C%E8%B7%91%E9%A9%AC%E7%81%AF%E2%80%9D%E6%8A%BD%E5%A5%96%E6%B4%BB%E5%8A%A8%E4%BB%A3%E7%A0%81%E8%A7%A3%E6%9E%90%E4%B8%8E%E4%BC%98%E5%8C%96%EF%BC%88%E4%BA%8C%EF%BC%8920160215.md)
+
 
 ###**生活感悟**
 - [工作一年小结\_20150903](https://github.com/zhiqiang21/blog/blob/master/life/%E5%B7%A5%E4%BD%9C%E4%B8%80%E5%B9%B4%E5%B0%8F%E7%BB%93_20150903.md)

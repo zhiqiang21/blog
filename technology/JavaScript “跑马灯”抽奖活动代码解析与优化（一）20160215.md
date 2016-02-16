@@ -151,7 +151,11 @@ function aaa(){
 aaa();
 ```
 
-如果运行上面的代码，当执行完 `aaa()` 等待一秒后并不会立即执行 `ccc()`,而是会等待 `bbb()` 执行完再执行 `ccc()`  这个时候离主线程运行结束已经4s 过去了。
+如果运行上面的代码，当执行完 `aaa()` ，JavaScript 线程空闲，这时开始计时：等待1秒后将 `ccc()`加入执行队列,等待4s 将 `bbb()`  加入执行队列。这时从 `ccc()`加入执行队列到 `bbb()`加入执行队列中间时间间隔是3s。
+
+**执行结果如下图：**
+
+![这里写图片描述](http://img.blog.csdn.net/20160216142435523)
 
 
 [![这里写图片描述](http://img.blog.csdn.net/20160215161117055)](https://github.com/zhiqiang21/WebComponent/tree/master/light-rotate)

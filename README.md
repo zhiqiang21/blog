@@ -1,6 +1,11 @@
 # blog
 my personal blog
 
+###blog时间线
+2015-10 创建该博客
+2016-2  将之前的 md 文件修改成 Issue，通过 Issue 的 lable 来做分类管理
+
+
 ### **技术积累**
 - [根据iPhone6设计稿动态计算rem值](https://github.com/zhiqiang21/blog/blob/master/technology/%E6%A0%B9%E6%8D%AEiPhone6%E8%AE%BE%E8%AE%A1%E7%A8%BF%E5%8A%A8%E6%80%81%E8%AE%A1%E7%AE%97rem%E5%80%BC.md)
 - [移动端 h5开发相关内容总结——CSS篇20151223](https://github.com/zhiqiang21/blog/blob/master/technology/%E7%A7%BB%E5%8A%A8%E7%AB%AF%20h5%E5%BC%80%E5%8F%91%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9%E6%80%BB%E7%BB%93%E2%80%94%E2%80%94CSS%E7%AF%8720151223.md)

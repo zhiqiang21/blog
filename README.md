@@ -4,7 +4,8 @@ my personal blog
 #blog时间线
 
   **2015-10** 创建该博客
-  **2016-02**  将之前的 md 文件修改成 Issue，通过 Issue 的 lable 来做分类管理
+  
+  **2016-02** 将之前的 md 文件修改成 Issue，通过 Issue 的 lable 来做分类管理
 
 
 ### **技术积累**

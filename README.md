@@ -1,27 +1,26 @@
 # blog
 my personal blog
 
-###blog时间线
+#blog时间线
 
-**2015-10** 创建该博客
-
-**2016-02**  将之前的 md 文件修改成 Issue，通过 Issue 的 lable 来做分类管理
+  **2015-10** 创建该博客
+  **2016-02**  将之前的 md 文件修改成 Issue，通过 Issue 的 lable 来做分类管理
 
 
 ### **技术积累**
 - [根据iPhone6设计稿动态计算rem值](https://github.com/zhiqiang21/blog/issues/1)
-- [移动端 h5开发相关内容总结——CSS篇20151223](https://github.com/zhiqiang21/blog/blob/master/technology/%E7%A7%BB%E5%8A%A8%E7%AB%AF%20h5%E5%BC%80%E5%8F%91%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9%E6%80%BB%E7%BB%93%E2%80%94%E2%80%94CSS%E7%AF%8720151223.md)
-- [移动端 h5 开发相关内容总结——JavaScript 篇20160104](https://github.com/zhiqiang21/blog/blob/master/technology/%E7%A7%BB%E5%8A%A8%E7%AB%AF%20h5%20%E5%BC%80%E5%8F%91%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9%E6%80%BB%E7%BB%93%E2%80%94%E2%80%94JavaScript%20%E7%AF%8720160104.md)
-- [h5端呼起摄像头扫描二维码并解析_20160120](https://github.com/zhiqiang21/blog/blob/master/technology/h5%E7%AB%AF%E5%91%BC%E8%B5%B7%E6%91%84%E5%83%8F%E5%A4%B4%E6%89%AB%E6%8F%8F%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%B9%B6%E8%A7%A3%E6%9E%90_20160120.md)
-- [移动端 h5开发相关内容总结(三)_20160131](https://github.com/zhiqiang21/blog/blob/master/technology/%E7%A7%BB%E5%8A%A8%E7%AB%AF%20h5%E5%BC%80%E5%8F%91%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9%E6%80%BB%E7%BB%93(%E4%B8%89)
-- [JavaScript “跑马灯”抽奖活动代码解析与优化（一）20160215](https://github.com/zhiqiang21/blog/blob/master/technology/JavaScript%20%E2%80%9C%E8%B7%91%E9%A9%AC%E7%81%AF%E2%80%9D%E6%8A%BD%E5%A5%96%E6%B4%BB%E5%8A%A8%E4%BB%A3%E7%A0%81%E8%A7%A3%E6%9E%90%E4%B8%8E%E4%BC%98%E5%8C%96%EF%BC%88%E4%B8%80%EF%BC%8920160215.md)
-- [JavaScript “跑马灯”抽奖活动代码解析与优化（二）20160215](https://github.com/zhiqiang21/blog/blob/master/technology/JavaScript%20%E2%80%9C%E8%B7%91%E9%A9%AC%E7%81%AF%E2%80%9D%E6%8A%BD%E5%A5%96%E6%B4%BB%E5%8A%A8%E4%BB%A3%E7%A0%81%E8%A7%A3%E6%9E%90%E4%B8%8E%E4%BC%98%E5%8C%96%EF%BC%88%E4%BA%8C%EF%BC%8920160215.md)
+- [移动端 h5开发相关内容总结——CSS篇20151223](https://github.com/zhiqiang21/blog/issues/2)
+- [移动端 h5 开发相关内容总结——JavaScript篇20160104](https://github.com/zhiqiang21/blog/issues/3)
+- [h5端呼起摄像头扫描二维码并解析_20160120](https://github.com/zhiqiang21/blog/issues/4)
+- [移动端 h5开发相关内容总结——flex布局思考20160131](https://github.com/zhiqiang21/blog/issues/5)
+- [JavaScript “跑马灯”抽奖活动代码解析与优化（一）20160215](https://github.com/zhiqiang21/blog/issues/6)
+- [JavaScript “跑马灯”抽奖活动代码解析与优化（二）20160215](https://github.com/zhiqiang21/blog/issues/7)
 
 
 ### **生活感悟**
-- [工作一年小结\_20150903](https://github.com/zhiqiang21/blog/blob/master/life/%E5%B7%A5%E4%BD%9C%E4%B8%80%E5%B9%B4%E5%B0%8F%E7%BB%93_20150903.md)
-- [2015年年终总结----磕磕绊绊的一年_20160116](https://github.com/zhiqiang21/blog/blob/master/life/2015%E5%B9%B4%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93----%E7%A3%95%E7%A3%95%E7%BB%8A%E7%BB%8A%E7%9A%84%E4%B8%80%E5%B9%B4_20160116.md)
+- [工作一年小结\_20150903](https://github.com/zhiqiang21/blog/issues/8)
+- [2015年年终总结----磕磕绊绊的一年_20160116](https://github.com/zhiqiang21/blog/issues/9)
 
 
 ### **工具配置**
-- [前端开发sublime text 插件安装和配置](https://github.com/zhiqiang21/MyToolsConfig/blob/master/sublimeconfig/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%20sublime%20text%20%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6%E5%92%8C%E9%85%8D%E7%BD%AE.md)
+- [前端开发sublime text 插件安装和配置](https://github.com/zhiqiang21/blog/issues/10)

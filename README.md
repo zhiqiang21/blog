@@ -1,10 +1,6 @@
 # blog
 my personal blog
 
-  **2015-10** 创建该博客
-
-  **2016-02** 将之前的 md 文件修改成 Issue，通过 Issue 的 lable 来做分类管理
-
 
 ### **技术积累**
 - [根据iPhone6设计稿动态计算rem值](https://github.com/zhiqiang21/blog/issues/1)

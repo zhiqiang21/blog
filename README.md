@@ -2,7 +2,7 @@
 my personal blog
 
   **2015-10** 创建该博客
-  
+
   **2016-02** 将之前的 md 文件修改成 Issue，通过 Issue 的 lable 来做分类管理
 
 
@@ -14,7 +14,7 @@ my personal blog
 - [移动端 h5开发相关内容总结——flex布局思考20160131](https://github.com/zhiqiang21/blog/issues/5)
 - [JavaScript “跑马灯”抽奖活动代码解析与优化（一）20160215](https://github.com/zhiqiang21/blog/issues/6)
 - [JavaScript “跑马灯”抽奖活动代码解析与优化（二）20160215](https://github.com/zhiqiang21/blog/issues/7)
-
+- [“瀑布流式”图片懒加载代码解析及优化(二)20160222](https://github.com/zhiqiang21/blog/issues/11)
 
 ### **生活感悟**
 - [工作一年小结\_20150903](https://github.com/zhiqiang21/blog/issues/8)

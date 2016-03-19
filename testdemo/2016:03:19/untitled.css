@@ -1,0 +1,42 @@
+/*div
+{
+    font-size: 21px;
+     font-size: ;
+     transform: translate3d(<length>, <length>, <length>);
+    color: #fff;
+    background: url(../img/test.jpg) no-repeat;
+    background-size: 100% 100%;
+}*/
+
+.test{
+    width:50px;
+    height:50px;
+    position: relative;
+    background-color:rgba(147, 71, 179, 0.81);
+    /*animation: aimateDom 5s;*/
+    /*transform: translateX(200px);*/
+}
+
+
+/*@-webkit-keyframes aimateDom{
+    0%{
+        -webkit-transform: translate3d(0,0,0);
+                transform: translate3d(0,0,0);
+    }
+
+    100%{
+        -webkit-transform: translate3d(200px,0,0);
+                transform: translate3d(200px,0,0);
+    }
+}
+@keyframes aimateDom{
+    0%{
+        -webkit-transform: translate3d(0,0,0);
+                transform: translate3d(0,0,0);
+    }
+
+    100%{
+        -webkit-transform: translate3d(200px,0,0);
+                transform: translate3d(200px,0,0);
+    }
+}*/

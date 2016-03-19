@@ -32,3 +32,4 @@ my personal blog
 
 ### **工具配置**
 - [前端开发sublime text 插件安装和配置](https://github.com/zhiqiang21/blog/issues/10)
+- [前端开发 Atom 编辑器插件安装和配置](https://github.com/zhiqiang21/MyToolsConfig/issues/1)

@@ -1,0 +1,26 @@
+*{margin:0;padding:0;}
+.body-div{
+    position:relative;
+    /*height: 100%;*/
+}
+.layer{
+    /*display: none;*/
+    position: absolute;
+    width:120px;
+    height:80px;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+    background-color:rgba(248,125,244,0.4);
+    z-index:1000;
+}
+.btn{
+    width:80px;
+    height:40px;
+    line-height: 40px;
+    text-align: center;
+    background-color:#fcab57;
+    margin: 0 auto;
+}

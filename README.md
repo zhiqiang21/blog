@@ -21,7 +21,7 @@ my personal blog
 - [JavaScript “跑马灯”抽奖活动代码解析与优化（二）20160215](https://github.com/zhiqiang21/blog/issues/7)
 - [“瀑布流式”图片懒加载代码解析及优化(二)20160222](https://github.com/zhiqiang21/blog/issues/11)
 - [MySlide 插件开发知识点总结和 css3 动画性能问题的研究](https://github.com/zhiqiang21/blog/issues/12)
-
+- [前端开发知识点总结_20160405](https://github.com/zhiqiang21/blog/issues/13)
 
 ----
 ### **生活感悟**

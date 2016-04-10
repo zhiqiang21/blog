@@ -11,6 +11,10 @@ my personal blog
 >一个厉害的前端工程师，必定是做过做大量的业务的。业务需求的刺激，才是创新的源泉！
 
 ----
+### **About ME**
+[About ME](https://github.com/zhiqiang21/blog/issues/14)
+
+----
 ### **技术积累**
 - [根据iPhone6设计稿动态计算rem值](https://github.com/zhiqiang21/blog/issues/1)
 - [移动端 h5开发相关内容总结——CSS篇20151223](https://github.com/zhiqiang21/blog/issues/2)

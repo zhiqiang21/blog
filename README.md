@@ -1,9 +1,9 @@
-# blog
+# Blog
 my personal blog
 
 ----
-### **About ME**
-[About ME](https://github.com/zhiqiang21/blog/issues/14)
+### **About Me**
+[About Me](https://github.com/zhiqiang21/blog/issues/14)
 
 ----
 ### **技术积累**

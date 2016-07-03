@@ -1,5 +1,6 @@
 # Blog
 
+## **欢迎star 欢迎ISSUE，您的鼓励会是我写作的动力！**
 ----
 ### **About Me**
 [关于我](https://github.com/zhiqiang21/blog/issues/14)

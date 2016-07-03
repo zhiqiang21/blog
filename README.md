@@ -1,9 +1,8 @@
 # Blog
-my personal blog
 
 ----
 ### **About Me**
-[About Me](https://github.com/zhiqiang21/blog/issues/14)
+[关于我](https://github.com/zhiqiang21/blog/issues/14)
 
 ----
 ### **技术积累**
@@ -20,6 +19,16 @@ my personal blog
 
 ----
 
+### **设计模式系列**
+
+----
+### **网络，协议**
+
+----
+
+### **数据结构与算法**
+
+----
 ### **生活感悟**
 - [我的北漂在路上--------时不时的停下脚步思考_20140215](http://blog.csdn.net/yisuowushinian/article/details/19244625)
 - [工作一年小结\_20150903](https://github.com/zhiqiang21/blog/issues/8)

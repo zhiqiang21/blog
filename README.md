@@ -29,7 +29,7 @@
 
 **声明：这个系列的主要内容来自《JavaScript设计模式与开发实践》 ----曾探@著**
 
-1. JavaScript设计模式----装饰者模式
+1. [JavaScript设计模式----装饰者模式](https://github.com/zhiqiang21/blog/issues/17)
 2. JavaScript设计模式----代理模式
 
 ----

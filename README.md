@@ -25,12 +25,10 @@
 1. [Python解析har文件将域名分类导出](https://github.com/zhiqiang21/blog/issues/16)
 
 ----
-### **设计模式系列**
+### **JavaScript设计模式系列**
 
-**声明：这个系列的主要内容来自《JavaScript设计模式与开发实践》 ----曾探@著**
-
-1. [JavaScript设计模式----装饰者模式](https://github.com/zhiqiang21/blog/issues/17)
-2. JavaScript设计模式----代理模式
+1. [装饰者模式_20160717](https://github.com/zhiqiang21/blog/issues/17)
+2. 代理模式
 
 ----
 ### **网络，协议**

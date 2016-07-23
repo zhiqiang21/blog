@@ -32,8 +32,8 @@
 
 1. [装饰者模式_20160717](https://github.com/zhiqiang21/blog/issues/17)
 2. [单例模式_20160723](https://github.com/zhiqiang21/blog/issues/18)
-3. [策略模式_20160724](https://github.com/zhiqiang21/blog/issues/19)
-4. [职责链模式](https://github.com/zhiqiang21/blog/issues/20)
+3. [策略模式_20160724](https://github.com/zhiqiang21/blog/issues/20)
+4. [职责链模式_20160725](https://github.com/zhiqiang21/blog/issues/21)
 
 
 ----
@@ -46,7 +46,7 @@
 
 ### **翻译**
 
-1. [Chrome开发者工具中关于“Deferred long-running timer task(s) ”的警告_20160723](https://github.com/zhiqiang21/blog/issues/21)
+1. [Chrome开发者工具中关于“Deferred long-running timer task(s) ”的警告_20160723](https://github.com/zhiqiang21/blog/issues/19)
 
 ----
 

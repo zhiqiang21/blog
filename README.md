@@ -28,7 +28,9 @@
 ### **JavaScript设计模式系列**
 
 1. [装饰者模式_20160717](https://github.com/zhiqiang21/blog/issues/17)
-2. 代理模式
+2. [单例模式_20160723](https://github.com/zhiqiang21/blog/issues/18)
+3. 策略模式
+4. 职责链模式
 
 ----
 ### **网络，协议**

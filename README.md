@@ -7,6 +7,7 @@
 **[关于我](https://github.com/zhiqiang21/blog/issues/14)**
 
 ----
+
 ### **前端技术积累**
 1. [根据iPhone6设计稿动态计算rem值](https://github.com/zhiqiang21/blog/issues/1)
 2. [移动端 h5开发相关内容总结——CSS篇20151223](https://github.com/zhiqiang21/blog/issues/2)
@@ -20,19 +21,35 @@
 9. [前端开发知识点总结_20160405](https://github.com/zhiqiang21/blog/issues/13)
 
 ----
+
 ### **python开发**
 
 1. [Python解析har文件将域名分类导出](https://github.com/zhiqiang21/blog/issues/16)
 
 ----
+
 ### **JavaScript设计模式系列**
 
 1. [装饰者模式_20160717](https://github.com/zhiqiang21/blog/issues/17)
 2. [单例模式_20160723](https://github.com/zhiqiang21/blog/issues/18)
-3. 策略模式
-4. 职责链模式
+3. [策略模式_20160724](https://github.com/zhiqiang21/blog/issues/19)
+4. [职责链模式](https://github.com/zhiqiang21/blog/issues/20)
+
 
 ----
+
+### **前端重构基础知识**
+1. JavaScript 面向对象开发知识总结（一）
+2. JavaScript 面向对象开发知识总结（二）
+
+----
+
+### **翻译**
+
+1. [Chrome开发者工具中关于“Deferred long-running timer task(s) ”的警告_20160723](https://github.com/zhiqiang21/blog/issues/21)
+
+----
+
 ### **网络，协议**
 
 ----

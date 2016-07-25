@@ -33,7 +33,7 @@
 1. [装饰者模式_20160717](https://github.com/zhiqiang21/blog/issues/17)
 2. [单例模式_20160723](https://github.com/zhiqiang21/blog/issues/18)
 3. [策略模式_20160725](https://github.com/zhiqiang21/blog/issues/20)
-4. [职责链模式_todo](https://github.com/zhiqiang21/blog/issues/21)
+4. [职责链模式_20160726](https://github.com/zhiqiang21/blog/issues/21)
 
 
 ----

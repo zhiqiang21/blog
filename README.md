@@ -20,7 +20,7 @@
 8. ["瀑布流式"图片懒加载代码解析及优化(二)20160222](https://github.com/zhiqiang21/blog/issues/11)
 9. [MySlide 插件开发知识点总结和 css3 动画性能问题的研究](https://github.com/zhiqiang21/blog/issues/12)
 10. [前端开发知识点总结_20160405](https://github.com/zhiqiang21/blog/issues/13)
-11. [html5学习开发指南](https://github.com/zhiqiang21/blog/issues/24)
+11. [html5学习开发指南_20160805](https://github.com/zhiqiang21/blog/issues/24)
 
 --------------------------------------------------------------------------------
 

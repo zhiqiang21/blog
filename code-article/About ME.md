@@ -88,5 +88,3 @@ QQ：1187691302
 
 1. CSDN博客地址：<http://blog.csdn.net/yisuowushinian>
 2. GitHub 地址：<https://github.com/zhiqiang21>
-
-![fullsizerender](https://cloud.githubusercontent.com/assets/3990411/16734524/731301f4-47b8-11e6-8f0a-0a2982e17da4.jpg)

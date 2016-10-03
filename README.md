@@ -21,6 +21,7 @@
 9. [MySlide 插件开发知识点总结和 css3 动画性能问题的研究](https://github.com/zhiqiang21/blog/issues/12)
 10. [前端开发知识点总结_20160405](https://github.com/zhiqiang21/blog/issues/13)
 11. [html5学习开发指南_20160805](https://github.com/zhiqiang21/blog/issues/24)
+15. [移动端h5开发相关内容总结（四）_20161003](https://github.com/zhiqiang21/blog/issues/25)
 
 --------------------------------------------------------------------------------
 
@@ -30,19 +31,25 @@
 
 --------------------------------------------------------------------------------
 
+### **前端面向对象开发基础知识**
+
+1. [JavaScript 面向对象开发知识总结基础篇_20160807](https://github.com/zhiqiang21/blog/issues/25)
+2. JavaScript 面向对象开发知识总结进阶篇
+3. JavaScript 面向对象开发知识总结高级篇
+4. MVC，MVP，MVVM的概念和区别
+
+--------------------------------------------------------------------------------
+
 ### **JavaScript设计模式系列**
 
 1. [装饰者模式_20160717](https://github.com/zhiqiang21/blog/issues/17)
 2. [单例模式_20160723](https://github.com/zhiqiang21/blog/issues/18)
 3. [策略模式_20160725](https://github.com/zhiqiang21/blog/issues/20)
 4. [职责链模式_20160726](https://github.com/zhiqiang21/blog/issues/21)
-
---------------------------------------------------------------------------------
-
-### **前端重构基础知识**
-
-1. [JavaScript 面向对象开发知识总结基础篇_20160807](https://github.com/zhiqiang21/blog/issues/25)
-2. JavaScript 面向对象开发知识总结进阶篇
+5. 中介者模式
+6. 享元模式
+7. 代理模式
+8. 命令模式
 
 --------------------------------------------------------------------------------
 
@@ -68,6 +75,7 @@
 - [最近生活感悟----我的选择与被选择_20150522](http://blog.csdn.net/yisuowushinian/article/details/45912683)
 - [工作一年小结----青春不散场对梦想不妥协_20150903](https://github.com/zhiqiang21/blog/issues/8)
 - [工作两年小结----勿忘初心不负梦想_20160730](https://github.com/zhiqiang21/blog/issues/22)
+- [26年来，终于有机会拨打了一次110的感受_20160918](https://github.com/zhiqiang21/blog/issues/26)
 
 --------------------------------------------------------------------------------
 

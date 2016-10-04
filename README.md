@@ -21,7 +21,8 @@
 9. [MySlide 插件开发知识点总结和 css3 动画性能问题的研究](https://github.com/zhiqiang21/blog/issues/12)
 10. [前端开发知识点总结_20160405](https://github.com/zhiqiang21/blog/issues/13)
 11. [html5学习开发指南_20160805](https://github.com/zhiqiang21/blog/issues/24)
-15. [移动端h5开发相关内容总结（四）_20161003](https://github.com/zhiqiang21/blog/issues/25)
+12. [移动端h5开发相关内容总结（四）_20161003](https://github.com/zhiqiang21/blog/issues/27)
+13. [nodejs分析excel文件将结果写入excel文件_20161004](https://github.com/zhiqiang21/blog/issues/28)
 
 --------------------------------------------------------------------------------
 

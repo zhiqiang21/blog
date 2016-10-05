@@ -23,6 +23,7 @@
 11. [html5学习开发指南_20160805](https://github.com/zhiqiang21/blog/issues/24)
 12. [移动端h5开发相关内容总结（四）_20161003](https://github.com/zhiqiang21/blog/issues/27)
 13. [nodejs分析excel文件将结果写入excel文件_20161004](https://github.com/zhiqiang21/blog/issues/28)
+14. [高清屏概念解析与检测设备像素比的方法_20161005](https://github.com/zhiqiang21/blog/issues/29)
 
 --------------------------------------------------------------------------------
 

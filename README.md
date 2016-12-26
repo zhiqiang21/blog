@@ -79,6 +79,7 @@
 - [工作一年小结----青春不散场对梦想不妥协_20150903](https://github.com/zhiqiang21/blog/issues/8)
 - [工作两年小结----勿忘初心不负梦想_20160730](https://github.com/zhiqiang21/blog/issues/22)
 - [26年来，终于有机会拨打了一次110的感受_20160918](https://github.com/zhiqiang21/blog/issues/26)
+- [最近工作生活感悟----人这一生为什么要努力？](https://github.com/zhiqiang21/blog/issues/32)
 
 --------------------------------------------------------------------------------
 

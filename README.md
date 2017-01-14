@@ -28,6 +28,7 @@
 14. [高清屏概念解析与检测设备像素比的方法_20161005](https://github.com/zhiqiang21/blog/issues/29)
 15. [再谈移动端适配和点5像素的由来_20161006](https://github.com/zhiqiang21/blog/issues/30)
 16. [对“粘连”footer布局的思考和总结_20161227](https://github.com/zhiqiang21/blog/issues/33)
+17. [微信小程序调研文档_20170114](https://github.com/zhiqiang21/blog/issues/34)
 
 
 

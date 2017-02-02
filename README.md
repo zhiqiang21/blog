@@ -86,6 +86,7 @@
 - [工作两年小结----勿忘初心不负梦想_20160730](https://github.com/zhiqiang21/blog/issues/22)
 - [26年来，终于有机会拨打了一次110的感受_20160918](https://github.com/zhiqiang21/blog/issues/26)
 - [最近工作生活感悟----人这一生为什么要努力？_20161225](https://github.com/zhiqiang21/blog/issues/32)
+- [迟到的2016年年终总结----拒绝平庸_20170202](https://github.com/zhiqiang21/blog/issues/35)
 
 ----
 ## **年终总结**

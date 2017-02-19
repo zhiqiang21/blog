@@ -29,6 +29,7 @@
 15. [再谈移动端适配和点5像素的由来_20161006](https://github.com/zhiqiang21/blog/issues/30)
 16. [对“粘连”footer布局的思考和总结_20161227](https://github.com/zhiqiang21/blog/issues/33)
 17. [微信小程序调研文档_20170114](https://github.com/zhiqiang21/blog/issues/34)
+18. [微信小程序开发知识点总结_20170217](https://github.com/zhiqiang21/blog/issues/36)
 
 
 

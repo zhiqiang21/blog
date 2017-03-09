@@ -13,6 +13,67 @@
 
 ![](http://7xs2tr.com1.z0.glb.clouddn.com/2017-03-06-072643.jpg?imageslim&watermark/2/text/aHR0cHM6Ly9naXRodWIuY29tL3poaXFpYW5nMjE=/font/5b6u6L2v6ZuF6buR/fontsize/600/fill/I0ZBMEMwQw==/dissolve/100/gravity/SouthEast/dx/10/dy/10)
 
+一句话总结：使用`async`和`await`是极大的解放生产力，减少脑细胞的消耗。
+
+因为之前使用koa做了一个小项目，想着就把它给升级一下，及做一下网络请求方面的优化。
+
+## 1.升级koa2.x及相关koa依赖
+
+因为koa1.x和koa2.x区别还是挺大的。大部分的中间件目前已经做了针对koa2.x的兼容。没有做兼容的中间件，koa2.x本身也提供了方法进行兼容（后面会提到用法）。
+
+升级的方法也很简单就是针对每一个中间件执行：`yarn add koa-xxxxx@next ` 就可以升级到最新版本；
+
+以下就是项目所依赖所有的中间件，都已经升级了最新的支持koa2。
+
+```javascript
+"koa-bodyparser": "^3.2.0",
+"koa-compress": "^2.0.0",
+"koa-convert": "^1.2.0",
+"koa-router": "^7.0.1",
+"koa-static": "^3.0.0",
+"koa-static-cache": "^4.0.0",
+"koa-views": "^5.2.1",
+```
+
+## 2.针对koa2.x的特点对项目进行重构
+
+koa1.x的特点就是使用`genetator`来控制项目的同步，而koa2.x最大的特点就是使用`async`和`await`
+
+`generator`的写法：
+
+```javascript
+myRouter.get('/', function *(){
+    let body ;
+    let peopleList =configParams.onDutyPeople();
+
+    body = yield render('index', {'peopleList':peopleList});
+    this.body = body;
+    this.type='text/html; charset=utf-8';
+});
+```
+
+
+`await`的写法
+```javascript
+router
+    .get('/', async(ctx, next) => {
+        let peopleList = configParams.onDutyPeople();
+
+        await ctx.render('index.jade', { 'peopleList': peopleList });
+        ctx.type = 'text/html; charset=utf-8';
+    })
+```
+
+
+## 3.不兼容koa2.x的中间件怎么办
+在做网络优化的时候用到一个中间件`koa-static-cache`。这个中间件目前是不兼容koa2.x的，那么怎么在Koa2.x中使用呢？
+
+**运行的时候报错信息如下：**
+
+![](http://7xs2tr.com1.z0.glb.clouddn.com/2017-03-06-064112.jpg?imageslim&watermark/2/text/aHR0cHM6Ly9naXRodWIuY29tL3poaXFpYW5nMjE=/font/5b6u6L2v6ZuF6buR/fontsize/600/fill/I0ZBMEMwQw==/dissolve/100/gravity/SouthEast/dx/10/dy/10)
+
+
+
 
 **通过网络查询得出原因如下：**
 

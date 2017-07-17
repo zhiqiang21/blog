@@ -31,7 +31,7 @@
 17. [微信小程序调研文档_20170114](https://github.com/zhiqiang21/blog/issues/34)
 18. [微信小程序开发知识点总结_20170217](https://github.com/zhiqiang21/blog/issues/36)
 19. [踩坑koa1.x升级koa2.x及前端工程师面临的新挑战_20170307](https://github.com/zhiqiang21/blog/issues/37)
-
+20. [MDN搜索结果自动跳转中文地址](https://github.com/zhiqiang21/blog/issues/38)
 
 
 ----

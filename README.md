@@ -1,10 +1,6 @@
-# zhiqiang21's Blog
-
-### **欢迎Star 欢迎ISSUE，您的鼓励会是我写作的动力！**
+#  **欢迎Star 欢迎ISSUE，您的鼓励会是我写作的动力！**
 
 ## **About Me**
-
-**如果你想更多的了解我请点击下面的链接：**
 
 [关于我](https://github.com/zhiqiang21/blog/issues/14)
 

@@ -88,6 +88,7 @@
 
 - [工作一年小结----青春不散场对梦想不妥协_20150903](https://github.com/zhiqiang21/blog/issues/8)
 - [工作两年小结----勿忘初心不负梦想_20160730](https://github.com/zhiqiang21/blog/issues/22)
+- [工作三年小结----我心依旧_20170710](https://github.com/zhiqiang21/blog/issues/40)
 
 
 ----

@@ -48,6 +48,24 @@
 
 ----
 
+## **深入理解ES6读书笔记
+
+1. 块级作用域绑定
+2. 字符串和正则表达式
+3. 函数
+4. 扩展对象的功能性
+5. 解构：使数据访问更便捷
+6. Symbol和Symbol属性
+7. Set集合与Map集合
+8. 迭代器（Iterator）和生成器（Generator）
+9. Javascript中的类
+10. 改进的数组功能
+11. Promise与异步编程
+12. 代理（Proxy）和反射（Reflection）API
+13. 用模块封装代码
+
+----
+
 ## **JavaScript设计模式系列**
 
 1. [装饰者模式_20160717](https://github.com/zhiqiang21/blog/issues/17)
@@ -110,3 +128,5 @@
 
 - [前端开发sublime text 插件安装和配置](https://github.com/zhiqiang21/blog/issues/10)
 - [前端开发 Atom 编辑器插件安装和配置](https://github.com/zhiqiang21/MyToolsConfig/issues/1)
+
+

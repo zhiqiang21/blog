@@ -29,6 +29,7 @@
 19. [踩坑koa1.x升级koa2.x及前端工程师面临的新挑战_20170307](https://github.com/zhiqiang21/blog/issues/37)
 20. [MDN搜索结果自动跳转中文地址_20170717](https://github.com/zhiqiang21/blog/issues/38)
 20. [记最近一次Nodejs全栈开发经历_20170722](https://github.com/zhiqiang21/blog/issues/39)
+21. [记一次fis3+react开发经历_20170917](https://github.com/zhiqiang21/blog/issues/41)
 
 
 ----

@@ -30,6 +30,7 @@
 20. [MDN搜索结果自动跳转中文地址_20170717](https://github.com/zhiqiang21/blog/issues/38)
 20. [记最近一次Nodejs全栈开发经历_20170722](https://github.com/zhiqiang21/blog/issues/39)
 21. [记一次fis3+react开发经历_20170917](https://github.com/zhiqiang21/blog/issues/41)
+21. [axios知识点总结_20170925](https://github.com/zhiqiang21/blog/issues/42)
 
 
 ----

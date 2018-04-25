@@ -150,6 +150,5 @@
 - [2014年年终总结----我的匆匆这一年(面试，毕业季，工作)_20150116](http://blog.csdn.net/yisuowushinian/article/details/43131761)
 - [2015年年终总结----磕磕绊绊的一年_20160116](https://github.com/zhiqiang21/blog/issues/9)
 - [2016年年终总结----拒绝平庸的一年_20170202](https://github.com/zhiqiang21/blog/issues/35)
-- [2017年年终总结----29岁，我开始思考人生的出路](https://)
 
 ----

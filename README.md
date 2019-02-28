@@ -42,6 +42,9 @@
 
 - [我是如何使用React+Redux构建大型应用的_20180112](https://github.com/zhiqiang21/blog/issues/44)
 
+## 2019年
+
+- [基于Nodejs的前端灰度发布方案_20190228](https://github.com/zhiqiang21/blog/issues/45)
 
 ----
 

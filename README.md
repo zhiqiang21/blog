@@ -45,7 +45,7 @@
 ## 2019年
 
 - [基于Nodejs的前端灰度发布方案_20190228](https://github.com/zhiqiang21/blog/issues/45)
-
+- [Linux文件权限管理_20190323](https://github.com/zhiqiang21/blog/issues/47)
 ----
 
 ## **python开发**

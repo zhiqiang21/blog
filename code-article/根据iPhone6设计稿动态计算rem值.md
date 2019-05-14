@@ -25,7 +25,7 @@
 
 由上面的表格可以知道当我们假设`1rem = 16px`时，那么`10px=0.625rem`，所以当我们选择`10px`为基准值的时候，假设我们需要设置的`rem 值为 Y`，设计稿的尺寸为 `X`,我们可以得出一个方程式：
 
-`10 * Y = 0.625 * X` 
+`10 * Y = 0.625 * X`
 
 也就是实际的rem设置的值就是
 
@@ -74,6 +74,10 @@ if (dpr >= 2) {
     testElement.style.border = '.5px solid transparent'
     fakeBody.appendChild(testElement)
     docEl.appendChild(fakeBody)
+    // offsetHeight 是一个只读属性，它返回该元素的像素高度，高度包含该元素的垂直内边距和边框，且是一个整数。
+    // 主要是因为安卓手机上的dpr不统一，这里是增加校验
+    // 这里检测 offsetHeight === 1 其实就是testElement 的上边框+下边框=1px
+    // 如果 testElement 的上边框+下边框 > 1px 则不支持0.5像素的设置
     if (testElement.offsetHeight === 1) {
       docEl.classList.add('hairlines')
     }
@@ -113,7 +117,7 @@ if (dpr >= 2) {
 **使用的时候，请将下面的代码放到页面的顶部（head标签内）；**
 ```javascript
 /**
- * [以iPhone6的设计稿为例js动态设置文档 rem 值]  
+ * [以iPhone6的设计稿为例js动态设置文档 rem 值]
  * px和 rem的换算方式是 设计稿尺寸除100 如果是2倍稿 则是设计稿尺寸 除 2*100=200 3倍稿尺寸可以类推。
  * @param  {[type]} currClientWidth [当前客户端的宽度]
  * @param  {[type]} fontValue [计算后的 fontvalue值]

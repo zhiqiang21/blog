@@ -113,7 +113,6 @@
 - [最近生活感悟----我的选择与被选择_20150522](http://blog.csdn.net/yisuowushinian/article/details/45912683)
 - [26年来，终于有机会拨打了一次110的感受_20160918](https://github.com/zhiqiang21/blog/issues/26)
 - [最近工作生活感悟----人这一生为什么要努力？_20161225](https://github.com/zhiqiang21/blog/issues/32)
-- [29岁的人生并不是那么平平淡淡_20190308](https://github.com/zhiqiang21/blog/issues/46)
 
 
 
@@ -137,3 +136,4 @@
 - [2014年年终总结----我的匆匆这一年(面试，毕业季，工作)_20150116](http://blog.csdn.net/yisuowushinian/article/details/43131761)
 - [2015年年终总结----磕磕绊绊的一年_20160116](https://github.com/zhiqiang21/blog/issues/9)
 - [2016年年终总结----拒绝平庸的一年_20170202](https://github.com/zhiqiang21/blog/issues/35)
+- [2017-2018年终总结----29岁的人生并不是那么平平淡淡_20190308](https://github.com/zhiqiang21/blog/issues/46)

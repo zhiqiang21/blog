@@ -68,6 +68,7 @@
 - [你不知道的flex-shrink对布局的影响_20190513](https://github.com/zhiqiang21/blog/issues/48)
 - [line-height和vertical-align深入理解_20190602](https://github.com/zhiqiang21/blog/issues/49)
 - [将webpack打包优化到极致_20180619](https://github.com/zhiqiang21/blog/issues/50)
+- [前端性能优化之----静态文件客户端离线缓存_20191110](https://github.com/zhiqiang21/blog/issues/52)
 
 ## Python开发
 
@@ -91,6 +92,13 @@
 6. 享元模式
 7. 代理模式
 8. 命令模式
+
+
+## 【一周一数据结构与算法系列】
+
+本章导读
+
+温故而知新，查漏补缺，生命不息，学无止境！
 
 
 

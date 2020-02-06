@@ -1,17 +1,11 @@
 # 欢迎Star 欢迎ISSUE，您的鼓励会是我写作的动力！
 
 
-原始博客地址列表如下：
+曾经在几个社区平台上维护的博客地址列表如下：
 
 - [CSDN博客](https://blog.csdn.net/yisuowushinian)
 - [SegmentFault博客](https://segmentfault.com/u/zhiqiang/articles)
 - [博客园](https://www.cnblogs.com/yisuowushinian/)
-
-自己的博客经历是从 CSDN 和 博客园开始的。后续的又在掘金、segmentfault 等社区开了自己的博客。刚开始写博客很大的动力就是 **积累**，**分享**，**影响力**。后来慢慢发现去一个一个维护这些博客太困难了。而且很难满足自己想在博客上做一些定制化的东西，而且这些网站的编辑器也不支持自己喜欢的markdown （*很久之前，现在基本支持了*）。就渐渐的开始做收敛，集中在CSDN写博客（主要原因是这里是包含自己文章最全的地方）。github仅仅是做自己博客文章的一个备份。
-
-当自己集中在 CSDN 写博客的时候又发现，CSDN 这个网站的广告和布局真的不是自己所喜欢的简洁风格，而且整个个人主页被各种推荐内容沾满。就想着还是在github做自己的博客文章的统一维护吧，然后使用github.io做一个网站主页。
-
-目前新的博客地址是 [https://zhiqiang21.github.io/](https://zhiqiang21.github.io/) 旧的博客文章后续会逐渐的迁移过来。
 
 
 ## 前端技术积累

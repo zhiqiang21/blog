@@ -31,7 +31,7 @@ let style = window.getComputedStyle(element, [pseudoElt]);
 
 我们一步一步由浅入深，先来看看什么是行高？来看下下图：
 
-![](https://raw.githubusercontent.com/zhiqiang21/img-map/master/20190520195327.png)
+![](https://cdn.jsdelivr.net/gh/zhiqiang21/img-map@latest/20190520195327.png)
 
 上面图种不同颜色的从上到下名称分别为（类似于我们初中开始学习英文时使用的拼音格）：
 
@@ -56,7 +56,7 @@ let style = window.getComputedStyle(element, [pseudoElt]);
 
 **内容盒（containing box）**： 外层盒子模型,包含了其他的boxes，即下面的整个灰色的区域。
 
-![](https://raw.githubusercontent.com/zhiqiang21/img-map/master/20190520201059.png)
+![](https://cdn.jsdelivr.net/gh/zhiqiang21/img-map@latest/20190520201059.png)
 
 下面的这张图能够更加形象的来表示出各个盒子所占用的区域。
 
@@ -152,7 +152,7 @@ let style = window.getComputedStyle(element, [pseudoElt]);
 
 先看来一个简单的示例demo 的效果如下图：
 
-![](https://raw.githubusercontent.com/zhiqiang21/img-map/master/20190521111837.png)
+![](https://cdn.jsdelivr.net/gh/zhiqiang21/img-map@latest/20190521111837.png)
 
 我们平时最常见的场景就是将图种的icon相对于父级元素垂直居中。那么有什么方法呢？
 - 绝对定位 （代码量较多但是实现方法简单）
@@ -199,19 +199,19 @@ let style = window.getComputedStyle(element, [pseudoElt]);
 
 当尝试给子元素设置`vertical-align`属性，那么最后的结果是怎么样呢（下面的demo我添加了一些文字作为参照）
 
-![](https://raw.githubusercontent.com/zhiqiang21/img-map/master/20190521115129.png)
+![](https://cdn.jsdelivr.net/gh/zhiqiang21/img-map@latest/20190521115129.png)
 
 由上图发现这个时候文字和图标并没有按照我们的预期垂直居中。根据第一部分的知识，我们尝试把容器内文字的4个基本线划出来。看下图蓝色的线依次从上到下是顶线，中线，基线，底线。当我们对子元素 `span.icon`设置`vertical-align`后，只是将图标的中线和文字的中线对齐而已。
 
-![](https://raw.githubusercontent.com/zhiqiang21/img-map/master/20190521115738.png)
+![](https://cdn.jsdelivr.net/gh/zhiqiang21/img-map@latest/20190521115738.png)
 
 由本片文章的第一部分可以知道给父级元素设置**line-height = 容器高度**可以使子容器内的元素垂直居中。这个时候的显示效果是什么样子呢？看下图：
 
-![](https://raw.githubusercontent.com/zhiqiang21/img-map/master/20190521141711.png)
+![](https://cdn.jsdelivr.net/gh/zhiqiang21/img-map@latest/20190521141711.png)
 
 根据上图我们可以看出，当我们对父元素设置了**line-height=容器高度的时候**文字不仅居中对齐了，图标也居中对齐了。那么是为什么呢？由第一部分的知识可知当我们给元素设置`line-height > font-size`时，会在上下行的文字间添加行间距。我们再看下图：
 
-![](https://raw.githubusercontent.com/zhiqiang21/img-map/master/20190521142724.png)
+![](https://cdn.jsdelivr.net/gh/zhiqiang21/img-map@latest/20190521142724.png)
 
 当设置`line-height`时，因为行间距的增加，影响容器内显示字体的**4条基本线**的位置。如果是单行文本元素时刚好能够居中文本。当我们对`span.icon`设置`vertical-align`时，就是将当前盒的垂直中心和父元素的中线对齐。就实现了我们看到的垂直居中的效果。
 

@@ -140,7 +140,7 @@
 - [工作一年小结----青春不散场对梦想不妥协_20150903](https://github.com/zhiqiang21/blog/issues/8)
 - [工作两年小结----勿忘初心不负梦想_20160730](https://github.com/zhiqiang21/blog/issues/22)
 - [工作三年小结----我依然是那个不变初心的少年_20170710](https://github.com/zhiqiang21/blog/issues/40)
-
+- [工作六年小结----只愿年过半百，归来依旧是少年_20210501](https://github.com/zhiqiang21/blog/issues/54)
 
 
 ## 年终总结
@@ -155,4 +155,3 @@
 - [2015年年终总结----磕磕绊绊的一年_20160116](https://github.com/zhiqiang21/blog/issues/9)
 - [2016年年终总结----拒绝平庸的一年_20170202](https://github.com/zhiqiang21/blog/issues/35)
 - [2017-2018年终总结----29岁的人生并不是那么平平淡淡_20190308](https://github.com/zhiqiang21/blog/issues/46)
-- [工作六年小结----只愿年过半百，归来依旧是少年_20210501](https://github.com/zhiqiang21/blog/issues/54)

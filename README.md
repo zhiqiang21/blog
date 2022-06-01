@@ -1,5 +1,26 @@
 # 欢迎 Star 欢迎 ISSUE，您的鼓励会是我写作的动力！
 
+- [欢迎 Star 欢迎 ISSUE，您的鼓励会是我写作的动力！](#欢迎-star-欢迎-issue您的鼓励会是我写作的动力)
+  - [前端技术积累](#前端技术积累)
+  - [2015 年](#2015-年)
+  - [2016 年](#2016-年)
+  - [2017 年](#2017-年)
+  - [2018 年](#2018-年)
+  - [2019 年](#2019-年)
+  - [2020 年](#2020-年)
+  - [专题归类](#专题归类)
+    - [【Python 开发】](#python-开发)
+    - [【前端面向对象开发基础知识】](#前端面向对象开发基础知识)
+    - [【JavaScript 设计模式系列】](#javascript-设计模式系列)
+    - [【JavaScript 函数式编程】](#javascript-函数式编程)
+    - [【数据结构与算法系列】](#数据结构与算法系列)
+    - [【温故而知新系列】](#温故而知新系列)
+    - [【翻译】](#翻译)
+  - [工具配置](#工具配置)
+  - [生活感悟](#生活感悟)
+  - [年中总结](#年中总结)
+  - [年终总结](#年终总结)
+
 曾经在几个社区平台上维护的博客地址列表如下：
 
 - [CSDN 博客](https://blog.csdn.net/yisuowushinian)
@@ -59,24 +80,26 @@
 - [由浅入深理解 Babel----常见配置详解\_20200823.md]()
 - [由浅入深理解 Babel----编译原理深入解析\_20200823.md]()
 
-## Python 开发
+## 专题归类
+
+### 【Python 开发】
 
 1. [Python 解析 har 文件将域名分类导出](https://github.com/zhiqiang21/blog/issues/16)
 
-## 前端面向对象开发基础知识
+### 【前端面向对象开发基础知识】
 
 1. [JavaScript 面向对象开发知识总结基础篇\_20160807](https://github.com/zhiqiang21/blog/issues/25)
 
-## 【JavaScript 设计模式系列】
+### 【JavaScript 设计模式系列】
 
 1. [装饰者模式\_20160717](https://github.com/zhiqiang21/blog/issues/17)
 2. [单例模式\_20160723](https://github.com/zhiqiang21/blog/issues/18)
 3. [策略模式\_20160725](https://github.com/zhiqiang21/blog/issues/20)
 4. [职责链模式\_20160726](https://github.com/zhiqiang21/blog/issues/21)
 
-## JavaScript 函数式编程
+### 【JavaScript 函数式编程】
 
-## 【数据结构与算法系列】
+### 【数据结构与算法系列】
 
 **主要内容来自图灵教育出版的《学习 JavaScript 数据结构与算法》一书**。
 
@@ -104,7 +127,7 @@
   - 归并排序
   - 快速
 
-## 【温故而知新系列】
+### 【温故而知新系列】
 
 - JS 原型链
 - ES6 Proxy 和 Reflect
@@ -115,7 +138,7 @@
 
 
 
-## 翻译
+### 【翻译】
 
 1. [Chrome 开发者工具中关于"Deferred long-running timer task(s) "的警告\_20160723](https://github.com/zhiqiang21/blog/issues/19)
 

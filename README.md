@@ -96,7 +96,6 @@
 3. [策略模式\_20160725](https://github.com/zhiqiang21/blog/issues/20)
 4. [职责链模式\_20160726](https://github.com/zhiqiang21/blog/issues/21)
 
-### 【JavaScript 函数式编程】
 
 ### 【TypeScript开发总结】
 
@@ -142,7 +141,9 @@
 - Genarator
 - call、apply 和 bind 原生实现
 
+### 【函数式编程】
 
+### 【跨端技术总结】
 
 
 ### 【翻译】

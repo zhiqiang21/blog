@@ -1,5 +1,6 @@
 
 
+
 ## 生活感悟
 
 - [最近生活感悟----我的选择与被选择_20150522](http://blog.csdn.net/yisuowushinian/article/details/45912683)
@@ -13,7 +14,7 @@
 **因为时间，眼界和态度的问题，有兴趣读到我写这些文章的朋友，请善良的对待我在其中提到对于一些问题的观点。我也年轻过，骄傲过，也会犯错。有时候回头看看它们内心真的会“呵呵...”。**
 
 - [2012在匍匐中前进----我的程序员之路_20130117](http://blog.csdn.net/yisuowushinian/article/details/8515109)
-- [2013我在奔波中走过----那年的高考改变了我们什么？_20140115](http://blog.csdn.net/yisuowushinian/article/details/17887667)
+- [2013我在奔波中走过----改变了什么？_20140115](http://blog.csdn.net/yisuowushinian/article/details/17887667)
 - [我的北漂在路上----时不时的停下脚步思考_20140215](http://blog.csdn.net/yisuowushinian/article/details/19244625)
 - [2014年年终总结----我的匆匆这一年(面试，毕业季，工作)_20150116](http://blog.csdn.net/yisuowushinian/article/details/43131761)
 - [工作一年小结----青春不散场对梦想不妥协_20150903](https://github.com/zhiqiang21/blog/issues/8)
@@ -23,6 +24,5 @@
 - [工作三年小结----我依然是那个不变初心的少年_20170710](https://github.com/zhiqiang21/blog/issues/40)
 - [2017-2018年终总结----29岁的人生并不是那么平平淡淡_20190308](https://github.com/zhiqiang21/blog/issues/46)
 - [工作六年小结----只愿年过半百，归来依旧是少年_20210501](https://github.com/zhiqiang21/blog/issues/54)
-
 - [2016年年终总结----拒绝平庸的一年_20170202](https://github.com/zhiqiang21/blog/issues/35)
 - [2017-2018年终总结----29岁的人生并不是那么平平淡淡_20190308](https://github.com/zhiqiang21/blog/issues/46)

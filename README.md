@@ -63,6 +63,7 @@
 
 ## 2024
 - [React Fiber架构解析（一）](https://github.com/zhiqiang21/blog/issues/55)
+- [React Fiber架构解析（二）](https://github.com/zhiqiang21/blog/issues/56)
 
 ## Python开发
 - [Python 解析har文件将域名分类导出](https://github.com/zhiqiang21/blog/issues/16)

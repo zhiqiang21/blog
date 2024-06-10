@@ -3,19 +3,12 @@
 本篇文章是对React Fiber架构调度器（Scheduler）、协调器（Reconciler）、渲染器（Renderer）的总结。
 
 ### 1.调度器
-
 ![](https://cdn.jsdelivr.net/gh/zhiqiang21/img-map@master/202406102056011.svg)
 
-
-
 ### 2.协调器
-
-
-
 ![](https://cdn.jsdelivr.net/gh/zhiqiang21/img-map@master/202406102152344.svg)
 
 #### 2.1React中定义Fiber的数据结构：
-
 ```javascript
 function FiberNode(
   tag: WorkTag,

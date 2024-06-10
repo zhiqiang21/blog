@@ -1,0 +1,37 @@
+@startuml
+!theme toy
+
+actor RootFiber as "rootFiber"
+entity AppFiber as "App Fiber"
+entity DivFiber as "div Fiber"
+entity IAmFiber as "i am Fiber"
+entity SpanFiber as "span Fiber"
+
+RootFiber -> AppFiber : beginWork
+activate AppFiber
+
+AppFiber -> DivFiber : beginWork
+activate DivFiber
+
+DivFiber -> IAmFiber : beginWork
+activate IAmFiber
+
+IAmFiber -> IAmFiber : completeWork
+deactivate IAmFiber
+
+DivFiber -> SpanFiber : beginWork
+activate SpanFiber
+
+SpanFiber -> SpanFiber : completeWork
+deactivate SpanFiber
+
+DivFiber -> DivFiber : completeWork
+deactivate DivFiber
+
+AppFiber -> AppFiber : completeWork
+deactivate AppFiber
+
+RootFiber -> RootFiber : completeWork
+deactivate RootFiber
+
+@enduml

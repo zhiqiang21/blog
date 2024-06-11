@@ -3,7 +3,7 @@
 本篇文章是对React Fiber架构调度器（Scheduler）、协调器（Reconciler）、渲染器（Renderer）的总结。
 
 ### 1.调度器
-![](https://cdn.jsdelivr.net/gh/zhiqiang21/img-map@master/202406102056011.svg)
+![](https://cdn.jsdelivr.net/gh/zhiqiang21/img-map@master/202406112114763.svg)
 
 ### 2.协调器
 ![](https://cdn.jsdelivr.net/gh/zhiqiang21/img-map@master/202406102152344.svg)
@@ -61,7 +61,7 @@ function FiberNode(
 
 current Fiber树中的Fiber节点被称为current fiber，workInProgress Fiber树中的Fiber节点被称为workInProgress fiber，他们通过alternate属性连接。
 
-![](https://cdn.jsdelivr.net/gh/zhiqiang21/img-map@master/202406102153710.svg)
+![](https://cdn.jsdelivr.net/gh/zhiqiang21/img-map@master/202406112123969.svg)
 
 #### Jsx和Fiber节点的关系
 

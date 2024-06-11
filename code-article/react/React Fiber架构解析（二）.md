@@ -1,4 +1,11 @@
-[TOC]
+- [1.调度器](#1---)
+- [2.协调器](#2---)
+  * [2.1React中定义Fiber的数据结构：](#21react---fiber------)
+  * [2.2“双缓存”](#22-----)
+  * [Jsx和Fiber节点的关系](#jsx-fiber-----)
+- [3.渲染器](#3---)
+  * [React Fiber渲染下面代码的流程：](#react-fiber----------)
+- [参考资料](#----)
 
 本篇文章是对React Fiber架构调度器（Scheduler）、协调器（Reconciler）、渲染器（Renderer）的总结。
 

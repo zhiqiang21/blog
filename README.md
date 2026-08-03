@@ -78,7 +78,3 @@
 - [前端开发 sublime text 插件安装和配置](https://github.com/zhiqiang21/blog/issues/10)
 - [前端开发 Atom 编辑器插件安装和配置](https://github.com/zhiqiang21/MyToolsConfig/issues/1)
 
-
-
-## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=zhiqiang21/blog&type=Timeline)](https://star-history.com/#zhiqiang21/blog&Timeline)

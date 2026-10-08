@@ -47,10 +47,6 @@
 - [将 webpack 打包优化到极致_20180619](https://github.com/zhiqiang21/blog/issues/50)
 - [前端性能优化之----静态文件客户端离线缓存_20191110](https://github.com/zhiqiang21/blog/issues/52)
 
-## 2020
-- 由浅入深理解 Babel----常见配置详解_20200823.md
-- 由浅入深理解 Babel----编译原理深入解析_20200823.md
-
 ## 2024
 - [React Fiber架构解析（一）](https://github.com/zhiqiang21/blog/issues/55)
 - [React Fiber架构解析（二）](https://github.com/zhiqiang21/blog/issues/56)
